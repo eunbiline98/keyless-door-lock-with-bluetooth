@@ -1,0 +1,13 @@
+Parts not found in 3dpack.dat or 3dusrpac.dat are:
+//C6	330u	VISHAY_C
+//C11		GRM43D
+//JP3		1X02_ROUND
+//JP4		1X01_ROUND
+//JP5		1X03_ROUND
+//P1		1X04_ROUND
+//PGM	DTSM-3	DTSM-3
+//RST	DTSM-3	DTSM-3
+//U$1	HT7833	SOT89
+//U$2	TPS82140	TPS82140
+//U3	ESP-WROOM-32	ESP-WROOM-32
+//X1	socket Contact	W232-3
